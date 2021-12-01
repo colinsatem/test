@@ -15,4 +15,3 @@ fi
 
 echo "Who I'm $SHELL"
 echo "Who I'm $SHELL"
-
